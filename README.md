@@ -11,5 +11,13 @@ The frontend was done with Qt Creator utilizing DLL's with signals and the backe
 
 ### The Pirkka Pankki has same functions as the real ATM:</br>
 
+1.Insert the card to the RFID reader.</br>
+![1](https://github.com/Miklah1/Ohjelmistoprojekti-Pankkiautomaattisovellus/tree/main/Pictures/insert_card.jpg)
+
+
+2.Enter PIN</br>
+![2](https://github.com/Miklah1/Ohjelmistoprojekti-Pankkiautomaattisovellus/tree/main/Pictures/insert_pin.jpg)
+
+
 
 
